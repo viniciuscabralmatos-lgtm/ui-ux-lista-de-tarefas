@@ -15,7 +15,9 @@ Figma
 ## 📱 Telas
 
 ### Tela principal
-![Tela Principal](tela-principal.png)
+<img width="420" height="925" alt="Android Compact - 1" src="https://github.com/user-attachments/assets/77af1f2b-8614-4222-949b-2d4e194e86ff" />
+
 
 ### Tela adicionar tarefa
-![Tela Adicionar](tela-adicionar.png)
+<img width="420" height="925" alt="Android Compact - 2" src="https://github.com/user-attachments/assets/3bd1625f-73e9-4b1a-92d0-16c83ae2fa46" />
+
